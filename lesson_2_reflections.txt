@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+it creates the files needed to track the changes
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+it only points the files that gonna be change in the commit, it keeps a group of files for a logical change
