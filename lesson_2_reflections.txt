@@ -3,3 +3,18 @@ it creates the files needed to track the changes
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 it only points the files that gonna be change in the commit, it keeps a group of files for a logical change
+
+How can you use the staging area to make sure you have one commit per logical change?
+Reviewing the files to commit so they work on a logical change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+By adding a new function, creating a diferent version of an element, trying diferents methods to prob
+
+How do the diagrams help you visualize the branch structure?
+Reflecting the lines and diferents stages of a developing
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Get the changes in both branches into one
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The time spend in manual merges
